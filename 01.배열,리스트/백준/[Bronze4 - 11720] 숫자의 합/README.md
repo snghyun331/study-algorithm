@@ -1,6 +1,7 @@
 https://www.acmicpc.net/problem/11720
 
 - 문자열을 리스트 안에 삽입하기 위해 `sys.stdin.readline()`을 사용할 시 뒤에 `.strip()`붙이기 (`\n` 때문)
+  - [관련 설명 바로가기](https://www.notion.so/senghyeon/0-02788305e67f4a8b894fef32f82aaea9?pvs=4#8dd8c2b2e6c046d6bae504ff46742eee)
 
 ## 문제
 
