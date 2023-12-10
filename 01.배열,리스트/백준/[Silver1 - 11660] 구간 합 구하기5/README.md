@@ -1,6 +1,6 @@
 https://www.acmicpc.net/problem/11660
 - 질의 개수에 대한 범위가 100,000까지 이므로 질의에 대한 합을 일일히 구하는 것은 불가능. →  **누적 합**을 이용하여 풀자
-- 설명: [노션](https://www.notion.so/senghyeon/DP-72adf7269af74e949bfc14b1946cc9d8?pvs=4)
+- 설명: [노션](https://www.notion.so/senghyeon/1-d7f36e20e4444775bf9bff26d24769ee?pvs=4)
 
 ## 문제
 N×N개의 수가 N×N 크기의 표에 채워져 있다. **(x1, y1)부터 (x2, y2)까지 합을 구하는** 프로그램을 작성하시오. (x, y)는 x행 y열을 의미한다.
