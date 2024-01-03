@@ -7,7 +7,7 @@ input = sys.stdin.readline
 def merge_sort(left, right):
     global result   # result을 바깥에서도 출력해야하니까
     if left == right:   # 크기가 1인 배열일 경우
-        return
+        return     # A 그대로 리턴
     
     mid = ( left + right) // 2
     merge_sort(left, mid)
@@ -22,7 +22,7 @@ def merge_sort(left, right):
     while i <= mid and j <= right:
         if tmp[i] > tmp[j]:
             A[k] = tmp[j]
-            result = result + j - k
+            result = result + j - k  # j - k: j 인덱스의 데이터 이전의 데이터셋 중 남아있는 데이터 수
             j += 1
         else:
             A[k] = tmp[i]
