@@ -22,12 +22,12 @@
 
 ### 입력 예시
 
-```
-const base64Encoded = "JVBERi0xLjMKJcTl8uXrp/Og0MTGCjI0NTAwMQo="
+```javascript
+const base64Encoded = "JVBERi0xLjMKJcTl8uXrp/Og0MTGCjI0NTAwMQo=";
 ```
 
 ### 출력 예시
 
-```
-pdf
+```javascript
+pdf;
 ```
