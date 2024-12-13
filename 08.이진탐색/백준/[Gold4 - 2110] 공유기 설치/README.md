@@ -1,6 +1,7 @@
 https://www.acmicpc.net/problem/2110
 
 - [문제풀이](https://www.notion.so/senghyeon/4-15864a24824d80abbf72edcc55ac1a95?pvs=4)
+- 이진 탐색으로 해당 범위 내에 거리 값을 조정하며 최적의 거리(두 공유기 사이의 거리의 최댓값)를 탐색하는 문제
 
 ## 문제
 
